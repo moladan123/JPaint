@@ -1,0 +1,5 @@
+README
+This program is paint, it is able to make new paint files
+and edit old ones that you have
+Can currently read .tiff, .tif, .gif, .jpeg, .jpg, .png files
+Can currently save as .png files
