@@ -212,6 +212,7 @@ public class ToolBar extends JPanel implements ActionListener, ChangeListener {
 	 * 
 	 */
 	private Color getColorFromRGB(String str) {
+		// My grand masterpiece
 		return new Color(Integer.parseInt((str.split("=")[1].split(","))[0]), Integer.parseInt((str.split("=")[2].split(","))[0]),Integer.parseInt((str.split("=")[3].split("]"))[0])); // blue value
 	}
 
